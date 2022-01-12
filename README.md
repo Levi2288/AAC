@@ -33,4 +33,4 @@ Know Sourcepawn basics
   
 - Why would i help? 
 
-  Cuz please?
+  Cuz please? And i think we deserve a really good anticheat that is free and reliable
