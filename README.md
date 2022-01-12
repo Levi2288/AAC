@@ -1,4 +1,4 @@
- # THIS ANTI CHEAT IS FAR NOT COMPLETE SO DO NOT USE THIS ON YOUR SERVER
+ # THIS ANTI CHEAT IS FAR NOT COMPLETE SO DO NOT USE THIS ON A LIVE SERVER
   Only supporting CS:GO at the moment if you know & want to help me make it cross game compatible you are welcome :D
   
 # README
